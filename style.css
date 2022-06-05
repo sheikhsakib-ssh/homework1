@@ -1,0 +1,21 @@
+
+h1{
+    text-align: center;
+}
+
+p{
+    color: rgb(59, 149, 228);
+}
+
+span{
+    color: rgb(250, 123, 4);
+}
+
+article{
+    background-color: antiquewhite;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+}
